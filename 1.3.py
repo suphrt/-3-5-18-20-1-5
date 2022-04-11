@@ -12,5 +12,6 @@ if __name__ == "__main__":
         for line in lines:
             if len(line) == maxim:
                 a.append(line)
+                
     for i in a:
         print(i)
